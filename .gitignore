@@ -3,3 +3,4 @@ env/
 /data/.DS_Store
 /data/.ipynb_checkpoints/
 /src/.ipynb_checkpoints/
+src/__pycache__/
