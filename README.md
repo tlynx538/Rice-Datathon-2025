@@ -1,4 +1,4 @@
-## BeliEVe
+# BeliEVe
 "Believe you can and you're halfway there." - Theodore Roosevelt 
 
 Have you ever wondered what the population of vehicles might look like in the future?
@@ -30,5 +30,11 @@ Here are the benchmarks for the models
 | Decision Tree | 10414.96                | 0.7138                  |
 | **Random Forest**  | **9458.02**                     | **0.7639**                      |
 | XGBoost        | 9825.53                     | 0.7452                      |
+
+
+To find the main project files, please head over to the src folder that contains:
+- project code
+- summary of methodology and findings (EDA)
+- submission_file.xlsx 
 
 
